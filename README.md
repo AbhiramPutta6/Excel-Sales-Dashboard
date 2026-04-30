@@ -5,8 +5,8 @@ An interactive sales dashboard built in Excel analyzing store sales performance
 by gender, age group, sales channel, and order status.
 
 ## Dashboard Preview
-Excel-Sales-Dashboard
-/excel sales dashboard.png
+![Dashboardhttps://github.com/AbhiramPutta6/Excel-Sales-Dashboard/tree/main](dashboard.png)
+
 
 ## Tools Used
 - Microsoft Excel
